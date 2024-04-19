@@ -1,0 +1,23 @@
+
+{
+Part-1
+4:48:00 Back-end with chai 
+
+5:04:00 Database connection  setup done
+
+5:25:00 Database connection  (done)
+
+
+}
+
+
+
+
+{
+
+    PROFESSIONAL ADVISE & BETTER APPROCH
+
+    #. wrap the Database in "TRY CATCH BLOCK" ya "PROMISE" use karo
+    #. Database always in another contiental . So, it take time. So Always use the "ASYNC AWAIT"
+
+}
