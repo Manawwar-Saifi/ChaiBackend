@@ -7,6 +7,11 @@ Part-1
 
 5:25:00 Database connection  (done)
 
+5:30:00 Handling Errors and Some about middleware etc.(Start)
+
+6:10:00(here)
+
+
 
 }
 
