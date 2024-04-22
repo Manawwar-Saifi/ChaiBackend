@@ -9,9 +9,8 @@ Part-1
 
 5:30:00 Handling Errors and Some about middleware etc.(Start)
 
-6:10:00(here)
-
-
+6:55:00(here)
+              JWT is a Bearer token hai.
 
 }
 
